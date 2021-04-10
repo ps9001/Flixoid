@@ -8,7 +8,7 @@
 "update_isforce":false,  
 "update_isapk": true,  
 "update_title":"Update new version",  
-"update_content":"New Update available. Please Update it.", 
+"update_content":"New Update available. Please Update it. \n -New Providers.", 
 "update_build":"2",  
 "update_version":"1.0",  
 "enable_force_player":false,
