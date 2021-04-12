@@ -8,7 +8,16 @@
 "update_isforce":true,  
 "update_isapk": true,  
 "update_title":"Update new version",  
-"update_content":"DOWNLOAD LATEST VERSION", 
+"update_content":"<b>Release Info</b>
+<br>- Version: 1.4.5b</br>
+<br>- Size: 17.7MB</br>
+<br>- Filelinked code: 60060270</br>
+<br>- FireDL code: 565883</br>
+<br></br>
+<br><b>Change logs</b></br>
+<br>- Add bunch of link providers.</br>
+<br>- Fix bugs.</br>
+<br>- Fix Aparat, Clipwatching, Mixdrop link.</br>", 
 "update_build":"2",  
 "update_version":"1.0",  
 "enable_force_player":false,
