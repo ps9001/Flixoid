@@ -9,7 +9,7 @@
 "update_isapk": true,  
 "update_title":"Update new version",  
 "update_content":"New Links Providers. \nBug Fixex.", 
-"update_build":"1",  
+"update_build":"2",  
 "update_version":"1.0",  
 "enable_force_player":false,
 "update_link":"https://github.com/daveparesh15/Flixoid/releases/download/1.0/app-armeabi-v7a-debug.apk",  
