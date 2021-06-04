@@ -5,10 +5,12 @@
 "update_isforce":false,  
 "update_isapk": true,  
 "update_title":"Update new version",  
-"update_content":"<br>- Fixed Real-Debrid Login Issue.</br>
+"update_content":"
+<br></br>
+<br>- Fixed Real-Debrid Login Issue.</br>
 <br>- Fixed Trakt Login Issue.</br>
 <br>- Fixed Upstream Links.</br>
-<br>- Fixed App crash issue.</br>
+<br>- Fixed App Crash Issue.</br>
 <br>- Many Other Bugs Fixed.</br>", 
 "update_build":"2",  
 "update_version":"1.1",  
