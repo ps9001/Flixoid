@@ -7,13 +7,10 @@
 "update_title":"Update new version",  
 "update_content":"
 <br></br>
-<br>- Fixed Real-Debrid Login Issue.</br>
-<br>- Fixed Trakt Login Issue.</br>
-<br>- Fixed Upstream Links.</br>
-<br>- Fixed App Crash Issue.</br>
-<br>- Many Other Bugs Fixed.</br>", 
-"update_build":"2",  
-"update_version":"1.1",  
+<br>- Added new Provider.</br>
+<br>- Many Bug Fixed.</br>", 
+"update_build":"3",  
+"update_version":"1.2",  
 "enable_force_player":false,
 "update_link":"https://github.com/daveparesh15/Flixoid/releases/download/1.1/Flixoid_1_1.apk",  
 "update_link_android4":"https://github.com/daveparesh15/Flixoid/releases/download/1.1/Flixoid_1_1.apk",
