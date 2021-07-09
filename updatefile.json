@@ -16,7 +16,7 @@
 "update_link_android4":"https://github.com/daveparesh15/Flixoid/releases/download/1.2/Flixoid_1_2.apk",
 "pkg_uninstall":"",    
 "enable_interstitial":false,
-"show_links":false,
+"show_links":true,
 "show_indian_links":true,
 "pkg_uninstall_content":"Please uninstall old version",
 "tmdb_key":"14cecf06228ff0de9aeb7a48bcc9ef70",
